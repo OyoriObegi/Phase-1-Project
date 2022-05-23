@@ -13,3 +13,5 @@ The data is from the following websites:
 3. Rotten Tomatoes (Links to an external site.)
 4. TheMovieDB (Links to an external site.)
 5. The Numbers
+
+The datasets can be found at **bom.movie_gross.csv, imdb.title.ratings.csv, and imdb.title.basics.csv
