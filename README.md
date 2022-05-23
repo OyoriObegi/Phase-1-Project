@@ -8,10 +8,10 @@ Microsoft sees all the big companies creating original video content and they wa
 
 The data is from the following websites:
 
-1. Box Office Mojo (Links to an external site.)
-2. IMDB (Links to an external site.)
-3. Rotten Tomatoes (Links to an external site.)
-4. TheMovieDB (Links to an external site.)
+1. Box Office Mojo
+2. IMDB
+3. Rotten Tomatoes
+4. TheMovieDB 
 5. The Numbers
 
 The datasets can be found at **bom.movie_gross.csv, imdb.title.ratings.csv, and imdb.title.basics.csv**
